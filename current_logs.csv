@@ -1,0 +1,27 @@
+﻿"TimeCreated","LogName","Id","Message"
+"3/26/2026 3:26:48 PM","Application","1022",".NET Runtime version 4.0.30319.0 - There was a failure initializing profiling API attach infrastructure.  This process will not allow a profiler to attach.  HRESULT: 0x80004005.  Process ID (decimal): 39912.  Message ID: [0x2509]."
+"3/26/2026 12:37:04 PM","System","7031","The HP Insights WatchDog Service service terminated unexpectedly.  It has done this 2 time(s).  The following corrective action will be taken in 60000 milliseconds: Restart the service."
+"3/26/2026 12:32:07 PM","System","7031","The HP Insights WatchDog Service service terminated unexpectedly.  It has done this 1 time(s).  The following corrective action will be taken in 60000 milliseconds: Restart the service."
+"3/26/2026 9:36:05 AM","Application","1022",".NET Runtime version 4.0.30319.0 - There was a failure initializing profiling API attach infrastructure.  This process will not allow a profiler to attach.  HRESULT: 0x80004005.  Process ID (decimal): 28508.  Message ID: [0x2509]."
+"3/26/2026 8:11:05 AM","System","5719","This computer was not able to set up a secure session with a domain controller in domain PTG due to the following: 
+An internal error occurred. 
+This may lead to authentication problems. Make sure that this computer is connected to the network. If the problem persists, please contact your domain administrator.  
+
+ADDITIONAL INFO 
+If this computer is a domain controller for the specified domain, it sets up the secure session to the primary domain controller emulator in the specified domain. Otherwise, this computer sets up the secure session to any domain controller in the specified domain."
+"3/26/2026 8:09:26 AM","System","10317","Miniport Microsoft Wi-Fi Direct Virtual Adapter #2, {132dd6b9-f871-4d24-b30d-8c6996ffece0}, had event Fatal error: The miniport has failed a power transition to operational power"
+"3/26/2026 12:26:07 AM","System","1129","The processing of Group Policy failed because of lack of network connectivity to a domain controller. This may be a transient condition. A success message would be generated once the machine gets connected to the domain controller and Group Policy has successfully processed. If you do not see a success message for several hours, then contact your administrator."
+"3/26/2026 12:26:07 AM","System","1129","The processing of Group Policy failed because of lack of network connectivity to a domain controller. This may be a transient condition. A success message would be generated once the machine gets connected to the domain controller and Group Policy has successfully processed. If you do not see a success message for several hours, then contact your administrator."
+"3/25/2026 7:24:54 PM","System","1129","The processing of Group Policy failed because of lack of network connectivity to a domain controller. This may be a transient condition. A success message would be generated once the machine gets connected to the domain controller and Group Policy has successfully processed. If you do not see a success message for several hours, then contact your administrator."
+"3/25/2026 7:24:54 PM","System","1129","The processing of Group Policy failed because of lack of network connectivity to a domain controller. This may be a transient condition. A success message would be generated once the machine gets connected to the domain controller and Group Policy has successfully processed. If you do not see a success message for several hours, then contact your administrator."
+"3/25/2026 5:43:12 PM","Application","1000","Faulting application name: EXCEL.EXE, version: 16.0.19725.20190, time stamp: 0x69b4d837
+Faulting module name: EXCEL.EXE, version: 16.0.19725.20190, time stamp: 0x69b4d837
+Exception code: 0xc0000005
+Fault offset: 0x0000000000708a5f
+Faulting process id: 0x8AA0
+Faulting application start time: 0x1DCBC3E70100B3B
+Faulting application path: C:\Program Files\Microsoft Office\Root\Office16\EXCEL.EXE
+Faulting module path: C:\Program Files\Microsoft Office\Root\Office16\EXCEL.EXE
+Report Id: 81411487-c160-447c-bb90-1376789fe544
+Faulting package full name: 
+Faulting package-relative application ID: "
